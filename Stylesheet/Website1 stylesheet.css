@@ -1,0 +1,40 @@
+.darkyellowbox{
+    background-color: rgb(255, 196, 0);
+    width: 35%;
+    height: 300px;
+  
+   
+    
+   
+}
+.lightyellowbox{
+    background-color: rgb(255, 238, 83);
+    width: 65%;
+    height: 300px;
+   
+ 
+  
+    
+  
+}
+.flexbox{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    text-align: center;  
+  
+   
+
+}
+.whitebox{
+    background-color: white;
+}
+.blackbox{
+    background-color: black;
+}
+.flexbox2{
+    display: flex;
+    align-self: center;
+   justify-content: center;
+   padding-top: 100px;
+   
